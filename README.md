@@ -8,7 +8,7 @@ Nesta competição, os participantes devem prever os preços de venda de casas c
 
 **Resultados**
 
-Minha taxa de erro (Root Mean Squared Error - RMSE) foi de **0.25476, o que demonstra uma boa capacidade de previsão do modelo desenvolvido.
+Minha taxa de erro (Root Mean Squared Error - RMSE) foi de **0.25476**, o que demonstra uma boa capacidade de previsão do modelo desenvolvido.
 
 **Conteúdo**
 
