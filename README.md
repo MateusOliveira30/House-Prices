@@ -1,57 +1,65 @@
 # House Prices - Advanced Regression Techniques
 
-Este projeto foi desenvolvido para a competição **"House Prices - Advanced Regression Techniques"** do Kaggle, onde o objetivo é prever os preços de venda de casas utilizando técnicas avançadas de regressão.
+This project was developed for the Kaggle competition "House Prices - Advanced Regression Techniques," where the goal is to predict house sale prices using advanced regression techniques.
 
-**Descrição**
+**Description**
 
-Nesta competição, os participantes devem prever os preços de venda de casas com base em várias características (features) das propriedades. A tarefa envolve a prática de engenharia de features, Random Forests (RFs) e Gradient Boosting.
+In this competition, participants are required to predict house sale prices based on various property features. The task involves practicing feature engineering, Random Forests (RFs), and Gradient Boosting.
 
-**Resultados**
+**Results**
 
-Minha taxa de erro (Root Mean Squared Error - RMSE) foi de **0.25476**, o que demonstra uma boa capacidade de previsão do modelo desenvolvido.
+My model achieved a Root Mean Squared Error (RMSE) of 0.25476, demonstrating strong predictive capability.
 
-**Conteúdo**
+**Contents**
 
-notebooks/: Jupyter Notebooks utilizados para análise exploratória dos dados, engenharia de features e desenvolvimento dos modelos.
-README.md: Este arquivo.
+**Jupyter Notebook:** Used for exploratory data analysis, feature engineering, and model development.
+**README.md:** This file.
 
-**Dependências**
+**Dependencies**
 
-Para executar este projeto, você precisará instalar as seguintes bibliotecas:
+To run this project, you will need to install the following libraries:
 
-1. Python 3.8+
-2. pandas
-3. numpy
-4. scikit-learn
-5. matplotlib
-Você pode instalar as dependências utilizando o seguinte comando:
+#### 1. Python 3.8+
+
+#### 2. pandas
+
+#### 3. numpy
+
+#### 4. scikit-learn
+
+#### 5. matplotlib
+
+You can install the dependencies using the following command:
 ```pip install pandas numpy scikit-learn matplotlib```
 
-**Estrutura do Projeto**
+**Project Structure**
 
-Análise Exploratória dos Dados (EDA): Análise inicial para entender a distribuição e correlações das variáveis.
-Engenharia de Features: Transformação e criação de novas features relevantes para melhorar o desempenho dos modelos.
-Modelagem: Treinamento e validação de diversos modelos de regressão, incluindo Random Forests e Gradient Boosting.
-Avaliação: Comparação dos modelos utilizando métricas apropriadas e seleção do modelo com melhor desempenho.
+**1. Exploratory Data Analysis (EDA):** Initial analysis to understand the distribution and correlations of variables.
+  
+**2. Feature Engineering:** Transformation and creation of new relevant features to improve model performance.
+   
+**3. Modeling:** Training and validation of various regression models, including Random Forests and Gradient Boosting.
+   
+**4. Evaluation:** Comparison of models using appropriate metrics and selection of the best-performing model.
 
-**Como Executar**
+**How to Run**
 
-1. Clone este repositório:
+1. Clone this repository:
 ```git clone https://github.com/seu_usuario/house-prices-advanced-regression-techniques.git```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
 ```cd house-prices-advanced-regression-techniques```
 
-3. Instale as dependências:
+3. Install the dependencies:
 ```pip install -r requirements.txt```
 
-4. Execute o notebook para reproduzir as análises e treinamentos:
+4. Run the notebook to reproduce the analyses and trainings:
 ```jupyter notebook notebooks/House_Prices_Advanced_Regression_Techniques.ipynb```
 
-**Contribuição**
+**Contribution**
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-**Referências**
+**References**
 
-[Competição Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+[Kaggle Competition: House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
